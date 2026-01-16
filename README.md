@@ -241,6 +241,6 @@ Academic Project - GTU College
 
 ---
 
-**Developed by:** [Kunal Chuahan]
+**Developed by:** Kunal Chuahan
 **Project:** IntelliPrep - Adaptive Assessment System
 **Year:** 2026
